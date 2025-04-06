@@ -1,4 +1,5 @@
 import { siteContent } from '@/data/content';
+import Image from 'next/image';
 
 export default function Product() {
   const { title, description } = siteContent.product;
@@ -21,14 +22,13 @@ export default function Product() {
               </div>
             </div>
             <div className="relative h-80 rounded-xl overflow-hidden bg-gradient-to-r from-primary/20 to-secondary/20 flex items-center justify-center shadow-md">
-              <div className="text-center p-8">
-                <div className="w-24 h-52 bg-blue-100 mx-auto rounded-full relative opacity-50">
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="w-16 h-16 bg-yellow-300 rounded-full animate-pulse"></div>
-                  </div>
-                </div>
-                <p className="mt-4 font-medium text-gray-600">Bottle Lamp Placeholder</p>
-              </div>
+              <Image 
+                src="/innoway-website/models/product.jpg" 
+                alt="Bottle Lamp Product"
+                width={300}
+                height={300}
+                className="object-cover"
+              />
             </div>
           </div>
         </div>

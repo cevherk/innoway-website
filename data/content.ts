@@ -73,15 +73,15 @@ export const siteContent = {
       },
       {
         name: "Cevher",
-        role: "Eskişehir Technical University – Pilot Training"
+        role: "Pilot Training MD at Eskisehir Technical University"
       },
       {
         name: "Seda",
-        role: "Team Member"
+        role: "Çağ University Faculty of Arts and Sciences, English Translation"
       },
       {
         name: "Aygül",
-        role: "Team Member"
+        role: "İstanbul Medipol University - Physiological Counseling and Guidance"
       }
     ]
   },
