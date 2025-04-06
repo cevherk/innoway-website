@@ -23,7 +23,7 @@ export default function Product() {
             </div>
             <div className="relative h-80 rounded-xl overflow-hidden bg-gradient-to-r from-primary/20 to-secondary/20 flex items-center justify-center shadow-md">
               <Image 
-                src="/models/product.jpg" 
+                src="/innoway-website/models/product.jpg" 
                 alt="Bottle Lamp Product"
                 width={300}
                 height={300}
