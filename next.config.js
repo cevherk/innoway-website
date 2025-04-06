@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/innoway-website',
-  assetPrefix: '/innoway-website/',
+  basePath: '/solivra-website',
+  assetPrefix: '/solivra-website/',
   trailingSlash: true,
 };
 

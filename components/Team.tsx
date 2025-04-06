@@ -17,7 +17,7 @@ export default function Team() {
                   {member.name === "Cevher" ? (
                     <div className="w-24 h-24 rounded-full overflow-hidden">
                       <Image 
-                        src="/team/cevher.jpg" 
+                        src="/solivra-website/team/cevher.jpg" 
                         alt="Cevher" 
                         width={96} 
                         height={96} 
