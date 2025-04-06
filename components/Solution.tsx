@@ -16,7 +16,7 @@ export default function Solution() {
                 <div className="absolute inset-0 flex items-center justify-center">
                   {model.id === "model-1" && (
                     <Image 
-                      src="/innoway-website/models/model-1.jpg" 
+                      src="/models/model-1.jpg" 
                       alt={model.title}
                       width={300}
                       height={240}
@@ -25,7 +25,7 @@ export default function Solution() {
                   )}
                   {model.id === "model-2" && (
                     <Image 
-                      src="/innoway-website/models/model-2.jpg" 
+                      src="/models/model-2.jpg" 
                       alt={model.title}
                       width={300}
                       height={240}
@@ -34,7 +34,7 @@ export default function Solution() {
                   )}
                   {model.id === "model-3" && (
                     <Image 
-                      src="/innoway-website/models/model-3.jpg" 
+                      src="/models/model-3.jpg" 
                       alt={model.title}
                       width={300}
                       height={240}
