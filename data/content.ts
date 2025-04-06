@@ -1,8 +1,8 @@
 export const siteContent = {
   home: {
-    title: "InnoWay",
-    subtitle: "Startup Pitch",
-    introText: "A presentation is a formal or informal communication method."
+    title: "Solivra",
+    subtitle: "Innoway",
+    introText: "A bright future, sealed in a bottle"
   },
   problem: {
     title: "Problem",

@@ -7,7 +7,7 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'InnoWay - Sustainable Bottle Lamps',
+  title: 'Solivra - Sustainable Bottle Lamps',
   description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
 };
 

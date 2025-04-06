@@ -14,7 +14,7 @@ export default function Hero() {
             href="#problem"
             className="btn-primary inline-block"
           >
-            Learn More
+            Discover
           </a>
         </div>
       </div>

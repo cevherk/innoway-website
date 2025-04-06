@@ -1,6 +1,6 @@
-# InnoWay Website
+# Solivra Website
 
-A fully responsive, SEO-friendly website for InnoWay startup, built with Next.js and Tailwind CSS.
+A fully responsive, SEO-friendly website for Solivra startup, built with Next.js and Tailwind CSS.
 
 ## Features
 
@@ -13,11 +13,11 @@ A fully responsive, SEO-friendly website for InnoWay startup, built with Next.js
 ## Sections
 
 - **Home**: Introduction and hero section
-- **Problem**: Defining the problem InnoWay is solving
+- **Problem**: Defining the problem Solivra is solving
 - **Solution**: Three solution models offered
 - **Product**: Details about the eco-friendly lamp products
 - **Market & Target Audience**: Information about the target market
-- **Competitive Advantage**: What makes InnoWay unique
+- **Competitive Advantage**: What makes Solivra unique
 - **Team**: Introduction to the team members
 - **Product Comparison**: Comparison table for different product models
 - **Roadmap**: Short and long-term goals
