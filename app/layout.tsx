@@ -9,6 +9,28 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Solivra - Sustainable Bottle Lamps',
   description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
+  openGraph: {
+    title: 'Solivra - Sustainable Bottle Lamps',
+    description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
+    url: 'https://www.solivra.diy',
+    siteName: 'Solivra',
+    images: [
+      {
+        url: '/team/logo.jpg',
+        width: 800,
+        height: 800,
+        alt: 'Solivra Logo',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Solivra - Sustainable Bottle Lamps',
+    description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
+    images: ['/team/logo.jpg'],
+  },
 };
 
 export default function RootLayout({
