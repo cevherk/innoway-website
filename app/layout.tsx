@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     siteName: 'Solivra',
     images: [
       {
-        url: 'https://www.solivra.diy/team/logo.jpg',
+        url: '/team/logo.jpg',
         width: 1200,
         height: 630,
         alt: 'Solivra Logo',
@@ -32,7 +32,13 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Solivra - Sustainable Bottle Lamps',
     description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
-    images: ['https://www.solivra.diy/team/logo.jpg'],
+    images: ['/team/logo.jpg'],
+  },
+  other: {
+    'og:image:secure_url': '/team/logo.jpg',
+    'og:image:type': 'image/jpeg',
+    'og:image:width': '1200',
+    'og:image:height': '630',
   },
 };
 
