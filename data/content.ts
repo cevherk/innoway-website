@@ -5,8 +5,8 @@ export const siteContent = {
     introText: "A bright future, sealed in a bottle"
   },
   problem: {
-    title: "Problem",
-    text: "Recycling and sustainability have become essential in today's world. As people generate more and more waste, our planet is struggling to deal with the consequences. One major source of waste is glass bottles, which often end up in landfills despite being recyclable. There is a growing need for creative and practical solutions to repurpose these materials and reduce environmental impact. Many consumers want to participate in sustainable practices but lack the knowledge or resources to do so effectively. Additionally, there is a market gap for aesthetically pleasing, functional products made from recycled materials."
+    title: "Recycling Glass Bottles: Why It Matters",
+    text: "Glass bottles create significant waste in landfills despite being recyclable. There's growing demand for: \n1. Practical ways to repurpose glass \n2. Knowledge about sustainable practices \n3. Attractive products made from recycled materials \nA market opportunity exists for solutions that address these needs while reducing environmental impact."
   },
   solution: {
     title: "Solution",
