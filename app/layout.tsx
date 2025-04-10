@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Solivra - Sustainable Bottle Lamps',
   description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
+  icons: {
+    icon: '/team/logo.ico',
+  },
   openGraph: {
     title: 'Solivra - Sustainable Bottle Lamps',
     description: 'Eco-friendly lamps from upcycled glass bottles, transforming waste into beautiful lighting solutions.',
