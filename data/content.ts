@@ -6,7 +6,7 @@ export const siteContent = {
   },
   problem: {
     title: "Recycling Glass Bottles: Why It Matters",
-    text: "Glass bottles create significant waste in landfills despite being recyclable. There's growing demand for: \n1. Practical ways to repurpose glass \n2. Knowledge about sustainable practices \n3. Attractive products made from recycled materials \nA market opportunity exists for solutions that address these needs while reducing environmental impact."
+    text: "Glass bottles contribute significantly to landfill waste despite being recyclable, creating an urgent need for practical repurposing solutions. Many consumers want to participate in sustainable practices but lack knowledge and resources, while a market gap exists for aesthetically pleasing, functional products made from recycled materials - presenting an opportunity to address environmental concerns while meeting consumer demand."
   },
   solution: {
     title: "Solution",
