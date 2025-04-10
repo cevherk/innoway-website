@@ -16,6 +16,7 @@ export default function Navbar() {
       <div className="container-custom">
         <div className="flex justify-between items-center py-4">
           <Link href="/" className="flex items-center gap-2">
+            <Image src="/team/logo.jpg" alt="Solivra Logo" width={50} height={50} />
             <span className="text-primary font-bold text-2xl">Solivra</span>
           </Link>
 
