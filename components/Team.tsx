@@ -17,7 +17,7 @@ export default function Team() {
                   {member.name === "Cevher" && (
                     <div className="w-48 h-48 rounded-full overflow-hidden">
                       <Image 
-                        src="/innoway-website/team/cevher.jpg" 
+                        src="/team/cevher.jpg" 
                         alt={member.name} 
                         width={192} 
                         height={192} 
@@ -28,7 +28,7 @@ export default function Team() {
                   {member.name === "Selen" && (
                     <div className="w-48 h-48 rounded-full overflow-hidden">
                       <Image 
-                        src="/innoway-website/team/selen.jpg" 
+                        src="/team/selen.jpg" 
                         alt={member.name} 
                         width={192} 
                         height={192} 
@@ -39,7 +39,7 @@ export default function Team() {
                   {member.name === "Seda" && (
                     <div className="w-48 h-48 rounded-full overflow-hidden">
                       <Image 
-                        src="/innoway-website/team/seda.jpg" 
+                        src="/team/seda.jpg" 
                         alt={member.name} 
                         width={192} 
                         height={192} 
@@ -50,7 +50,7 @@ export default function Team() {
                   {member.name === "Aygül" && (
                     <div className="w-48 h-48 rounded-full overflow-hidden">
                       <Image 
-                        src="/innoway-website/team/aygul.jpg" 
+                        src="/team/aygul.jpg" 
                         alt={member.name} 
                         width={192} 
                         height={192} 
