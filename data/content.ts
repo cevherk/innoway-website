@@ -44,7 +44,7 @@ export const siteContent = {
     ]
   },
   advantage: {
-    title: "Competitive Advantage",
+    title: "Value Proposition",
     points: [
       {
         title: "Flexibility",
