@@ -31,7 +31,7 @@ export default function Navbar() {
               Product
             </Link>
             <Link href="#market" className="text-gray-700 hover:text-primary font-medium">
-              Market
+              Persona
             </Link>
             <Link href="#team" className="text-gray-700 hover:text-primary font-medium">
               Team
@@ -106,7 +106,7 @@ export default function Navbar() {
                 className="text-gray-700 hover:text-primary font-medium"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Market
+                Persona
               </Link>
               <Link 
                 href="#team" 
