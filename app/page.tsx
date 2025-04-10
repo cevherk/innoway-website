@@ -2,6 +2,7 @@ import Hero from '@/components/Hero';
 import Problem from '@/components/Problem';
 import Solution from '@/components/Solution';
 import Product from '@/components/Product';
+import ValueProposition from '@/components/ValueProposition';
 import Market from '@/components/Market';
 import Advantage from '@/components/Advantage';
 import Team from '@/components/Team';
@@ -15,6 +16,7 @@ export default function Home() {
       <Problem />
       <Solution />
       <Product />
+      <ValueProposition />
       <Market />
       <Advantage />
       <Team />
