@@ -5,7 +5,6 @@ import Product from '@/components/Product';
 import Market from '@/components/Market';
 import Advantage from '@/components/Advantage';
 import Team from '@/components/Team';
-import Comparison from '@/components/Comparison';
 import Roadmap from '@/components/Roadmap';
 import Contact from '@/components/Contact';
 
@@ -19,7 +18,6 @@ export default function Home() {
       <Market />
       <Advantage />
       <Team />
-      <Comparison />
       <Roadmap />
       <Contact />
     </>
