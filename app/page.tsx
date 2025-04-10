@@ -6,6 +6,7 @@ import ValueProposition from '@/components/ValueProposition';
 import Market from '@/components/Market';
 import Advantage from '@/components/Advantage';
 import Team from '@/components/Team';
+import FinancialForecast from '@/components/FinancialForecast';
 import Roadmap from '@/components/Roadmap';
 import Contact from '@/components/Contact';
 
@@ -20,6 +21,7 @@ export default function Home() {
       <Market />
       <Advantage />
       <Team />
+      <FinancialForecast />
       <Roadmap />
       <Contact />
     </>
