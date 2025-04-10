@@ -85,16 +85,6 @@ export const siteContent = {
       }
     ]
   },
-  comparison: {
-    title: "Product Comparison",
-    headers: ["Feature", "Model-1", "Model-2", "Model-3"],
-    rows: [
-      ["Price", "Higher", "Medium", "Lower"],
-      ["Assembly Required", "No", "Yes", "Yes"],
-      ["Customization", "Limited", "High", "High"],
-      ["Materials Included", "All", "All", "Partial"]
-    ]
-  },
   roadmap: {
     title: "Roadmap",
     shortTerm: "In the short term, we plan to establish our online presence, develop our initial product line, and begin marketing to our target audience.",
